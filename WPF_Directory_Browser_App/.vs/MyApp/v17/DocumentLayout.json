@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Directory_Browser_App\\MyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|D:\\Directory_Browser_App\\MyApp\\viewmodels\\directorybrowserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|solutionrelative:viewmodels\\directorybrowserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|d:\\directory_browser_app\\myapp\\convertors\\bytearraytoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|solutionrelative:convertors\\bytearraytoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|D:\\Directory_Browser_App\\MyApp\\models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|solutionrelative:models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|D:\\Directory_Browser_App\\MyApp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|D:\\Directory_Browser_App\\MyApp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|D:\\Directory_Browser_App\\MyApp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69BADD8C-3A81-41DB-93D0-B6666BEA0301}|MyApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ByteArrayToImageConverter.cs",
+              "DocumentMoniker": "D:\\Directory_Browser_App\\MyApp\\Convertors\\ByteArrayToImageConverter.cs",
+              "RelativeDocumentMoniker": "Convertors\\ByteArrayToImageConverter.cs",
+              "ToolTip": "D:\\Directory_Browser_App\\MyApp\\Convertors\\ByteArrayToImageConverter.cs",
+              "RelativeToolTip": "Convertors\\ByteArrayToImageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:21:21.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DirectoryBrowserViewModel.cs",
+              "DocumentMoniker": "D:\\Directory_Browser_App\\MyApp\\ViewModels\\DirectoryBrowserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DirectoryBrowserViewModel.cs",
+              "ToolTip": "D:\\Directory_Browser_App\\MyApp\\ViewModels\\DirectoryBrowserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DirectoryBrowserViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv1cAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:13:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Directory_Browser_App\\MyApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Directory_Browser_App\\MyApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-04T06:55:20.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Directory_Browser_App\\MyApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Directory_Browser_App\\MyApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-05T09:24:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Directory_Browser_App\\MyApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Directory_Browser_App\\MyApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:24:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Directory_Browser_App\\MyApp\\Models\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Models\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Directory_Browser_App\\MyApp\\Models\\DatabaseHelper.cs",
+              "RelativeToolTip": "Models\\DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:10:10.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿<Window x:Class="MyApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:MyApp.ViewModels"
+        Title="Directory Browser" Height="450" Width="800">
+    <Window.DataContext>
+        <local:DirectoryBrowserViewModel />
+    </Window.DataContext>
+    <Grid>
+        <StackPanel>
+            <StackPanel>
+                <Label Content="Search for Directory : " />
+                <Button Command="{Binding BrowseCommand}" Content="Browse" Margin="10" />
+            </StackPanel>
+            
+            <StackPanel>
+                <Label Content="Current Directory :" />
+                <TextBox Text="{Binding CurrentDirectory}" IsReadOnly="True" Margin="10" />
+            </StackPanel>
+            <StackPanel>
+                <Label Content="List of Items :" />
+                <ListBox ItemsSource="{Binding DirectoryContents}" Margin="10" />
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Upload Image :" />
+                <Button Command="{Binding UploadCommand}" Content="Upload" Margin="10" />
+            </StackPanel>
+            
+            <ItemsControl ItemsSource="{Binding UploadedImages}" Margin="10">
+                
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="Uploaded images :" />
+                            <Image Width="100" Height="100" Source="{Binding ImageData, Converter={StaticResource ByteArrayToImageConverter}}" />
+                            <TextBlock Text="{Binding FileName}" Margin="10" VerticalAlignment="Center" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </StackPanel>
+    </Grid>
+</Window>
